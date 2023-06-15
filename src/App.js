@@ -124,7 +124,7 @@ function App() {
       setMessage("Please select From and To dates")
       return
     }
-    let response = await fetch(`http://localhost:4005/getSheetDataTutor/${calendarsAndDriveIds[tutor][0]}/${calendarsAndDriveIds[tutor][1]}/${from}/${to}`)
+    let response = await fetch(`/getSheetDataTutor/${calendarsAndDriveIds[tutor][0]}/${calendarsAndDriveIds[tutor][1]}/${from}/${to}`)
     response = await response.json()
     response.status === 200 ? setMessage("Sheet Updated") : setMessage("An error occured while updating the sheet")
     setTutor("")
