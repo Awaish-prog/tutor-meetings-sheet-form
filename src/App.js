@@ -10,6 +10,8 @@ function App() {
   const calendarsAndDriveIds = {
     "All Tutors": ["AllTutors", "1dGbV8h4CwsgyMwbcy0B5mIm76JJUydCO0YcpxVO2ieI"],
 
+    "Lala 2023-24": ["Lala 2023-24", "1sXwTxQRUzhxQaLkFk9O-neKLPwp_qjGlavsizCiGM5Q"],
+
     "Aaron": ["5700413", "1fIH26phF0sqjKh58LTLNHaHMoY4PjJMkj0T3LDSxCnk"],
 
     "Aeffia": ["5202744", "12Kuuyu1-ZTBDHxgYRAPnTSGA-g_Dp0EOS3-yT_4IKno"],
@@ -22,6 +24,8 @@ function App() {
 
     "Cameron": ["6956955", "1wkfZu_zv9sTh_6zo-HEEpySa4_qnORQ1N1oZMeglLms"],
 
+    "Charlie": ["8495566", "1IThwgAvSO14m-SGAXiEZoBmKacC9UAkF-cnLAPiHYXI"],
+
     "Craig": ["6957012", "1TzKOqpmfPshzCYOuf_45Md4l5mSZ1CYkyvzXn6RzpgI"],
 
     "Dennis": ["7116255", "1Jc7RwgQiiSpi6uXHoI8HSYCxNGWo0LF7m6qg5sUrZ2E"],
@@ -31,6 +35,8 @@ function App() {
     "Eleni": ["8175423", "1omHgPBD54lkm4p0HcX5YzW0WWxtO6eBZDxqCaWSEYXw"],
 
     "Frank": ["5729977", "1PLRrCcje8-ImMCXG7sg_E2DTkIN6eArnyFILFHN6v-s"],
+
+    "Hannah": ["8478285", "1WauF51NDXrG6zwyKoRsirS_rc_ECpxTdrrIX8CUPDLw"],
 
     "Isabella": ["7252261", "1XoDPU1uocgjxmLvPFabOHM0q9fygTUzckZA169WpwGM"],
 
@@ -50,6 +56,10 @@ function App() {
 
     "Kaitlyn": ["7505897", "169lgzXaYoAs2nZ0m6ync75BC-uL5DQ34ZMvZ8ZgdltM"],
 
+    "Kate": ["8478231", "1geErngEANvUg6y9fE76qQxTWnvD2gZT8T8Cipl9QdMM"],
+
+    "Kelly": ["8478229", "1_oFYibgBuFDg_c8wDfsHGWj3QabdqvEIHFjm0bQR__Q"],
+
     "Kira": ["7194510", "1vxgK2YWNUd4-nan9CQXT7tBgL2rX_VztfZK1yEyEoC8"],
 
     "Krystal": ["6957173", "1RmSe6T59f3HZL9FARWRRmzkUgweJ_9Ux7iRUl9vViCQ"],
@@ -66,6 +76,8 @@ function App() {
 
     "Mahrosh": ["6957179", "11d1B7iIwpoIknWQhYfYTjB_MWE1YzxV99QJDXbUBaUg"],
 
+    "Marcus": ["8551698", "1XNg1BGBAAzfA7kqNB9WidarrTFYPMXtnXPf-0TybbPA"],
+
     "Mark": ["5700369", "109ddUzNjiuaIEZFmWi4NE8UJHLJP9Zd3TJUN-caE9-c"],
 
     "Meredith": ["6957184", "1Qrlyts6RQsuGLOt5Mh-iCtE3wO2DHM4-LOpZc1K9g2c"],
@@ -74,15 +86,23 @@ function App() {
 
     "Nell": ["7252267", "1Rdr95k6KxVQj7vpHpTcGlo1rojjmLuwBiEXdJnc-YMk"],
 
+    "Noreen": ["8478243", "1dRmM0hqXnIJtiLwTO2--YC8KAVpOKEiIPAGDYGuVP-8"],
+
+    "Oleksiy": ["8478235", "14UxgajixxdzW0uxyJTWErZWBSDNmJXJvjSDezlfT7Y4"],
+
     "Peter": ["6957189", "1NplW-AQX59pqMa5FbPP-yBR9zWXCM_lxVK9NLYYXDQk"],
 
     "Razaaq": ["7951565", "1mKgZ8Jf6PNAr1lTDp8s6S9bGUGCTsKO_n33j_OlgRDk"],
+
+    "Rebekah": ["8478239", "1fB2bfEK_vs8tqr9x8Rdy5l4Awqnm98cwvw6UHzFv97c"],
 
     "Robert": ["6957206", "1-tqG5HGuiQ2NqCa3j3QnrRkHMalYPxZJQZMWSrKn9Ks"],
 
     "Rose": ["6967194", "1qpLS0LlDZjebS55IhucpDEph2Lz5B9LZ0My0usZ7_d0"],
 
     "Ryan": ["5700387", "1O7JtZms0qnlN7VEOMcJYIG75SlIYuLNqNNmkcUtpK7g"],
+
+    "Shaan": ["8478214", "1QT8DP6t0xY3mU5_29MeVbBterUbu_NNoI5nR6EIFS80"],
 
     "Siobhan": ["7487379", "1cGo7eP-O7NzVPejFayCVKgrctJeu6g9MTqugqbjju7g"],
 
@@ -94,7 +114,7 @@ function App() {
 
     "William": ["7535538", "1k8lfNhNffPVOeomxYNy9HsnmUc-Xm_XgIsTSmC-OqX4"],
 
-    "Zibaa": ["7252278", "1c_tHyOmYhxjCoeogkvCgY2FNkHHTJMNlksagvmlPE1w"]
+    "Zibaa": ["7252278", "1c_tHyOmYhxjCoeogkvCgY2FNkHHTJMNlksagvmlPE1w"],
   }
 
   function changeTutor(e){
